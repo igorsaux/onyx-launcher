@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": "ss14",
+      "title": "OnyxBay14",
+      "icon": "./ss14-logo.svg",
+      "background": "./ss14-background.png",
+      "links": {
+        "Discord": "https://discord.gg/ZPw3t45",
+        "GitHub": "https://github.com/ChaoticOnyx/OnyxBay14"
+      },
+      "serverType": "SS14",
+      "servers": [],
+      "description": "Билд игры Space Station 14 - ремейка культовой Space Station 13. Использует движок с открытым исходным кодом."
+    },
+    {
+      "id": "ss13",
+      "title": "OnyxBay",
+      "icon": "./ss13-logo.png",
+      "background": "./ss13-background.png",
+      "links": {
+        "Вики": "https://wiki.ss13.ru/index.php?title=Main_Page",
+        "Discord": "https://discord.gg/ZPw3t45",
+        "GitHub": "https://github.com/ChaoticOnyx/OnyxBay"
+      },
+      "serverType": "Byond",
+      "servers": [
+        {
+          "name": "Chaotic Onyx",
+          "address": "byond://play.ss13.ru:2506"
+        },
+        {
+          "name": "Eos Orbital Station",
+          "address": "byond://play.ss13.ru:2507"
+        },
+        {
+          "name": "Crimson Dragon",
+          "address": "byond://play.ss13.ru:2508"
+        },
+        {
+          "name": "Experimental Onyx",
+          "address": "byond://ss13.ru:2508"
+        },
+        {
+          "name": "Lawful Onyx",
+          "address": "byond://ss13.ru:2507"
+        }
+      ],
+      "description": "Билд игры Space Station 13, основанный на BayStation12 и развивающийся с 2018 года. Работает на платформе BYOND."
+    }
+  ]
+}
